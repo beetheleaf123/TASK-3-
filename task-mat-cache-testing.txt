@@ -1,0 +1,4 @@
+Cached Implementantion
+Total runtime: 50.29 seconds
+Uncached Implementaiton
+Total runtime: 65.21 seconds
